@@ -13,7 +13,7 @@
     {"id":"2","title":"Portfolio","link":"https://tylerkraus.myportfolio.com/"},
     {"id":"3","title":"Email","link":"mailto:tylerkraus1@gmail.com"}
 ],
-"Get To Know Tyler": [
+"projects": [
     {
       "id": "1",
       "title": "For Work",
@@ -28,7 +28,7 @@
       "imageSrc": "https://images.unsplash.com/photo-1476611338391-6f395a0ebc7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
      }
   ],
-  "Collaborating Across Teams For Successful Product Development": [
+  "services": [
     {
       "id": "1",
       "title": "Art Direction",
