@@ -13,11 +13,7 @@
     {"id":"2","title":"Portfolio","link":"https://tylerkraus.myportfolio.com/"},
     {"id":"3","title":"Email","link":"mailto:tylerkraus1@gmail.com"}
 ],
-"Get To Know Tyler":
-[
-        {"id":"1","title":"Project One Test","description":"For Work","img src":"https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"},
-        {"id":"2","title":"Project Two","description":"For Fun","img Src":"https://images.unsplash.com/photo-1476611338391-6f395a0ebc7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fGhpa2luZyUyMHByb2Zlc3Npb25hbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"}
-],
+
         "Collaborating Across Teams For Successful Product Development":
         [
             {"id":"1","title":"Product","description":"Bridging th gap between customer needs and product innovation"},
