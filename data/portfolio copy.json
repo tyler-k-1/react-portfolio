@@ -20,7 +20,7 @@
       "id": "1",
       "title": "Project One Test",
       "description": "Web Design",
-      "imageSrc": "public/images/TK Initials Logo.png",
+      "imageSrc": "/workspaces/react-portfolio/public/images/TK Initials Logo.png",
       "url": "http://chetanverma.com/"
     },
     {
