@@ -13,13 +13,6 @@
     {"id":"2","title":"Portfolio","link":"https://tylerkraus.myportfolio.com/"},
     {"id":"3","title":"Email","link":"mailto:tylerkraus1@gmail.com"}
 ],
-
-        "Collaborating Across Teams For Successful Product Development":
-        [
-            {"id":"1","title":"Product","description":"Bridging th gap between customer needs and product innovation"},
-            {"id":"2","title":"Marketing","description":"Bridging th gap between customer needs and product innovation"},
-            {"id":"3","title":"Design","description":"Blendin user-centric design with strategic product vision"},
-            {"id":"4","title":"Data Insights","description":"Transformin raw data into actionable product insights"}],
             "aboutpara":"Thanks for checking out my website. My career has included time in multiple industries including financial services, fin-tech, and education. In 2020, I returned to my hometown high school to lead the business education department during the pandemic and taught classes on Computer Applications, Technology, Personal Finance, Accounting, Business, and Marketing. Life events brought me to the Greater SF Bay Area after my time teaching and I am now open to new opportunities in product management, marketing, or other related areas. While I do not consider myself an engineer, I am comfortable with general coding and editing while utilizing platforms like Visual Studio. Additional info showing my approach to different product scenarios and some subjects I covered as an educator can be viewed in my portfolio and resume.",
             "resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},
             "languages":["Javascript","HTML5","CSS","Python","Go"],
