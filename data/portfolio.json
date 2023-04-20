@@ -1,4 +1,4 @@
-{"imageSrc":"public/images/TK Initials Logo.png",
+{"name":"Tyler",
 "headerTaglineOne":"Hello 👋",
 "headerTaglineTwo":"I'm Tyler Kraus - curious",
 "headerTaglineThree":"designer and devloper",
@@ -10,10 +10,10 @@
 "socials":
 [
     {"id":"1","title":"Github","link":"https://github.com/chetanverma16"},
-    {"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},
+    {"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/tylerkraus-profile"},
     {"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},
-    {"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},
-    {"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}
+    {"id":"4","title":"Portfolio","link":"https://blog.chetanverma.com/"},
+    {"id":"5","title":"Email","link":"mailto:tylerkraus1@gmail.com"}
     ],
     "projects":
     [
