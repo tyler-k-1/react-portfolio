@@ -13,21 +13,18 @@
     {"id":"2","title":"Portfolio","link":"https://tylerkraus.myportfolio.com/"},
     {"id":"3","title":"Email","link":"mailto:tylerkraus1@gmail.com"}
 ],
-"projects":
+"Get To Know Tyler":
 [
-        {"id":"1","title":"Project One Test","description":"Web Design","imagesrc":"https://cdn.myportfolio.com/2fe2f853-3050-43d7-a9e0-5c3e3d3aa6d1/5cccc784-8e6a-44ec-b821-ebcc90c7f950_rw_1200.png?h=20f9a42107b8862114bc9444c0254bd5"},
-        {"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"https://tylerkraus.myportfolio.com/"},
-        {"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"https://tylerkraus.myportfolio.com/"},
-        {"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"https://tylerkraus.myportfolio.com/"},
-        {"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"https://tylerkraus.myportfolio.com/"},
-        {"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"https://tylerkraus.myportfolio.com/"}
+        {"id":"1","title":"Project One Test","description":"For Work","imagesrc":"https://images.unsplash.com/photo-1551434678-e076c223a692?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"},
+        {"id":"2","title":"Project Two","description":"For Fun","imageSrc":"https://images.unsplash.com/photo-1476611338391-6f395a0ebc7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NzJ8fGhpa2luZyUyMHByb2Zlc3Npb25hbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60"}
 ],
-        "services":
+
+        "Collaborating Across Teams For Successful Product Development":
         [
-            {"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},
-            {"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},
-            {"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},
-            {"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],
+            {"id":"1","title":"Product","description":"Bridging the gap between customer needs and product innovation"},
+            {"id":"2","title":"Marketing","description":"Bridging the gap between customer needs and product innovation"},
+            {"id":"3","title":"Design","description":"Blending user-centric design with strategic product vision"},
+            {"id":"4","title":"Data Insights","description":"Transforming raw data into actionable product insights"}],
             "aboutpara":"Thanks for checking out my website. My career has included time in multiple industries including financial services, fin-tech, and education. In 2020, I returned to my hometown high school to lead the business education department during the pandemic and taught classes on Computer Applications, Technology, Personal Finance, Accounting, Business, and Marketing. Life events brought me to the Greater SF Bay Area after my time teaching and I am now open to new opportunities in product management, marketing, or other related areas. While I do not consider myself an engineer, I am comfortable with general coding and editing while utilizing platforms like Visual Studio. Additional info showing my approach to different product scenarios and some subjects I covered as an educator can be viewed in my portfolio and resume.",
             "resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},
             "languages":["Javascript","HTML5","CSS","Python","Go"],
