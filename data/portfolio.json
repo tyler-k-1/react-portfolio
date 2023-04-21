@@ -27,7 +27,7 @@
       "imageSrc": "https://images.unsplash.com/photo-1476611338391-6f395a0ebc7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
      }
   ],
-  "services": [
+  "services":  [
     {
       "id": "1",
       "title": "Product",
