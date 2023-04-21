@@ -23,7 +23,7 @@
     {
       "id": "2",
       "title": "For Fun",
-      "description": "Hiking, Time With Family & Friends, Playing Guitar, Following Tech & Related Industries", 
+      "description": "Hiking, Biking, Time with family & friends, Playing guitar, Following tech & related industries", 
       "imageSrc": "https://as2.ftcdn.net/v2/jpg/05/57/17/29/1000_F_557172921_n3uRkxm32RnX5XbmKVDNbOXeNoOYP1eV.jpg"
      }
   ],
@@ -45,7 +45,7 @@
     },
     {
       "id": "4",
-      "title": "Data Insights",
+      "title": "Data",
       "description": "Transforming raw data into actionable product insights"
     }
   ],
