@@ -1,7 +1,7 @@
 {"name":"Tyler K",
 "headerTaglineOne":"Hello, world 👋",
-"headerTaglineTwo":"I'm Tyler Kraus - currently",
-"headerTaglineThree":"open to marketing or product",
+"headerTaglineTwo":"I'm Tyler Kraus - open to",
+"headerTaglineThree":"marketing or product",
 "headerTaglineFour":"roles in the SF Bay Area",
 "showCursor":true,
 "showBlog":false,
@@ -18,13 +18,13 @@
       "id": "1",
       "title": "For Work",
       "description": "Driving Successful Products & Teams",
-      "imageSrc": "https://images.unsplash.com/photo-1538688423619-a81d3f23454b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+      "imageSrc": "https://as1.ftcdn.net/v2/jpg/02/52/74/34/1000_F_252743423_UTaXqI6ObU6xQX9aokdoa56nKd6jdgVy.jpg"
      },
     {
       "id": "2",
       "title": "For Fun",
       "description": "Hiking, Reading, Gaming, Playing Guitar",
-      "imageSrc": "https://images.unsplash.com/photo-1476611338391-6f395a0ebc7b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80"
+      "imageSrc": "https://as2.ftcdn.net/v2/jpg/05/57/17/29/1000_F_557172921_n3uRkxm32RnX5XbmKVDNbOXeNoOYP1eV.jpg"
      }
   ],
   "services":  [
@@ -49,7 +49,7 @@
       "description": "Transforming raw data into actionable product insights"
     }
   ],
-  "aboutpara": "Thanks for checking out my website. My career has involved time in multiple industries including financial services, fin-tech, and education. In 2020, I returned to my hometown high school to lead the business education department during the pandemic and taught classes on Computer Applications, Technology, Personal Finance, Accounting, Business, and Marketing. Life events brought me to the Greater SF Bay Area after my time teaching and I am now open to new opportunities in product management, marketing, or other related areas.",
+  "aboutpara": "My career has involved time in multiple industries including financial services, fin-tech, and education. In 2020, I returned to my hometown high school to lead the business education department during the pandemic and taught classes on Computer Applications, Technology, Personal Finance, Accounting, Business, and Marketing. Life events brought me to the Greater SF Bay Area after my time teaching and I am now open to new opportunities in product management, marketing, or other related areas.",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer, and maker.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
