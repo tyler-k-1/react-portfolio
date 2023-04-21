@@ -6,7 +6,7 @@
 "showCursor":true,
 "showBlog":false,
 "darkMode":true,
-"showResume":true,
+"showResume":false,
 "socials":
 [
     {"id":"1","title":"LinkedIn","link":"https://www.linkedin.com/in/tylerkraus-profile"},
