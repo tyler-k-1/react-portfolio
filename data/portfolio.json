@@ -13,7 +13,8 @@
     {"id":"2","title":"Portfolio","link":"https://tylerkraus.myportfolio.com/"},
     {"id":"3","title":"Email","link":"mailto:tylerkraus1@gmail.com"}
 ],
-"projects": [
+"projects": 
+[
     {
       "id": "1",
       "title": "For Work",
@@ -26,8 +27,9 @@
       "description": "Hiking, Biking, Time with family & friends, Playing guitar, Following tech & related industries", 
       "imageSrc": "https://cdn.myportfolio.com/c6d8ef48-dfa0-4d6c-babe-b39ab0a7b8ad/c474b698-343c-4413-bb44-fdbdbb72bfb6_rw_1920.jpeg?h=b64d4ad5132e3c1f7b07882fd47bb51a"
      }
-  ],
-  "services":  [
+],
+  "services":  
+[
     {
       "id": "1",
       "title": "Product",
@@ -48,7 +50,7 @@
       "title": "Data",
       "description": "Transforming raw data into actionable product insights"
     }
-  ],
+],
   "aboutpara": "My career has involved time in multiple industries including financial services, fin-tech, and education. In 2020, I returned to my hometown high school to lead the business education department during the pandemic and taught classes on Computer Applications, Technology, Personal Finance, Accounting, Business, and Marketing. Life events brought me to the Greater SF Bay Area after my time teaching and I am now open to new opportunities in product management, marketing, or other related areas.",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer, and maker.",
